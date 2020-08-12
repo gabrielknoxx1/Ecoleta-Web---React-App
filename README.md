@@ -8,8 +8,8 @@ da aplicação </p>
 <hr>
 
 ## Preview
-<img src="/web/src/assets/home.png" />
-<img src="/web/src/assets/pvwCAd.gif" />
+<img src="/src/assets/home.png" />
+<img src="/src/assets/pvwCAd.gif" />
 
 
 ## Tecnologias
